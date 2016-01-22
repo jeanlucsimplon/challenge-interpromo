@@ -13,6 +13,7 @@ a {
 }
 .titre {
   text-align: center;
+  padding-top: 60px;
 }
 #free {
   color: #8787BB;
@@ -20,4 +21,5 @@ a {
   background-color: #FFF;
   height: 30px;
   width: 350px;
+  border-radius: 5px;
 }
