@@ -37,16 +37,17 @@ color: #565656;
   padding: 15px;
 }
 .boite {
-  height: 644px;
+  display: inline-block;
+  height: 444px;
   width: 644px;
 }
 .boite1 {
   background-color: #7CD5EF;
-  height: 644px;
+  height: 444px;
   width: 644px;
 }
 .boite2 {
   background-color: #8787BB;
-  height: 644px;
+  height: 444px;
   width: 644px;
 }
