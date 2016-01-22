@@ -19,7 +19,34 @@ a {
   color: #8787BB;
   padding: 15px;
   background-color: #FFF;
-  height: 30px;
-  width: 350px;
+  width: 380px;
   border-radius: 5px;
+}
+tr {
+text-align: center;
+color: #565656;
+}
+.titre2 {
+  text-align: center;
+  color: #565656;
+}
+.ach {
+  background-color: #565656;
+  text-align: center;
+  color: #FFF;
+  padding: 15px;
+}
+.boite {
+  height: 644px;
+  width: 644px;
+}
+.boite1 {
+  background-color: #7CD5EF;
+  height: 644px;
+  width: 644px;
+}
+.boite2 {
+  background-color: #8787BB;
+  height: 644px;
+  width: 644px;
 }
