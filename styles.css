@@ -1,0 +1,23 @@
+header {
+  color: #FFF;
+  height: 600px;
+  background-image: url("images/payments-banner-graphic.png");
+}
+.nav {
+  display: inline-flex;
+}
+a {
+  color: #FFF;
+  text-decoration: none;
+  padding: 15px;
+}
+.titre {
+  text-align: center;
+}
+#free {
+  color: #8787BB;
+  padding: 15px;
+  background-color: #FFF;
+  height: 30px;
+  width: 350px;
+}
